@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "level": 1,
+        "height": 3,
+        "base_height": 0,
+        "name": "Ground Floor",
+        "spaceType": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-2.7177, 52.3679],
+          [-2.7175, 52.3679],
+          [-2.7175, 52.3677],
+          [-2.7177, 52.3677],
+          [-2.7177, 52.3679]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "level": 2,
+        "height": 3,
+        "base_height": 3,
+        "name": "First Floor",
+        "spaceType": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-2.7177, 52.3679],
+          [-2.7175, 52.3679],
+          [-2.7175, 52.3677],
+          [-2.7177, 52.3677],
+          [-2.7177, 52.3679]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "level": 3,
+        "height": 3,
+        "base_height": 6,
+        "name": "Second Floor",
+        "spaceType": 7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-2.7177, 52.3679],
+          [-2.7175, 52.3679],
+          [-2.7175, 52.3677],
+          [-2.7177, 52.3677],
+          [-2.7177, 52.3679]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "level": 4,
+        "height": 3,
+        "base_height": 9,
+        "name": "Third Floor"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-2.7177, 52.3679],
+          [-2.7175, 52.3679],
+          [-2.7175, 52.3677],
+          [-2.7177, 52.3677],
+          [-2.7177, 52.3679]
+        ]]
+      }
+    }
+  ]
+}
