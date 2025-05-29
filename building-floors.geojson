@@ -9,7 +9,12 @@
         "base_height": 0,
         "name": "Ground Floor",
         "spaceType": 1,
-        "elevation_m": 0
+        "elevation_m": 0,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00aa22",
+        "fill-opacity": 0.5        
       },
       "geometry": {
         "type": "Polygon",
@@ -23,12 +28,7 @@
           [-2.7177, 52.3677],
           [-2.7178, 52.3678],
           [-2.7177, 52.3679]
-        ]],
-        "style": {
-          "color": "#ff0000",
-          "weight": 2,
-          "opacity": 0.5
-        }
+        ]]
       }
     },
     {
@@ -39,7 +39,12 @@
         "base_height": 3,
         "name": "First Floor",
         "spaceType": 4,
-        "elevation_m": 300
+        "elevation_m": 300,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "green",
+        "fill-opacity": 0.5        
       },
       "geometry": {
         "type": "Polygon",
@@ -52,12 +57,7 @@
           [-2.7177, 52.3677],
           [-2.7178, 52.3678],
           [-2.7177, 52.3679]
-        ]],
-        "style": {
-          "color": "#00ff00",
-          "weight": 2,
-          "opacity": 0.5
-        }
+        ]]
       }
     },
     {
@@ -68,7 +68,12 @@
         "base_height": 6,
         "name": "Second Floor",
         "spaceType": 7,
-        "elevation_m": 600
+        "elevation_m": 600,
+        "stroke": "red",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00aa22",
+        "fill-opacity": 0.5        
       },
       "geometry": {
         "type": "Polygon",
@@ -78,12 +83,7 @@
           [-2.7175, 52.3677],
           [-2.7177, 52.3677],
           [-2.7177, 52.3679]
-        ]],
-        "style": {
-          "color": "#ffa500",
-          "weight": 2,
-          "opacity": 0.5
-        }
+        ]]
       }
     },
     {
@@ -94,7 +94,12 @@
         "base_height": 9,
         "name": "Third Floor",
         "spaceType": 10,
-        "elevation_m": 900
+        "elevation_m": 900,
+        "stroke": "organge",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00aa22",
+        "fill-opacity": 0.5        
       },
       "geometry": {
         "type": "Polygon",
@@ -104,12 +109,7 @@
           [-2.7175, 52.3677],
           [-2.7177, 52.3677],
           [-2.7177, 52.3679]
-        ]],
-        "style": {
-          "color": "#87ceeb",
-          "weight": 2,
-          "opacity": 0.5
-        }
+        ]]
       }
     }
   ]
