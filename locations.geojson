@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longnor",
+        "description": "A village in Shropshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.505, 52.957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shrewsbury",
+        "description": "County town of Shropshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7528, 52.7083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ludlow",
+        "description": "Historic market town in Shropshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7177, 52.3679]
+      }
+    }
+  ]
+}
