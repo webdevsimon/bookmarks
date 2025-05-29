@@ -8,7 +8,8 @@
         "height": 3,
         "base_height": 0,
         "name": "Ground Floor",
-        "spaceType": 1
+        "spaceType": 1,
+        "elevation_m": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -28,7 +29,8 @@
         "height": 3,
         "base_height": 3,
         "name": "First Floor",
-        "spaceType": 4
+        "spaceType": 4,
+        "elevation_m": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -48,7 +50,8 @@
         "height": 3,
         "base_height": 6,
         "name": "Second Floor",
-        "spaceType": 7
+        "spaceType": 7,
+        "elevation_m": 6
       },
       "geometry": {
         "type": "Polygon",
@@ -67,7 +70,9 @@
         "level": 4,
         "height": 3,
         "base_height": 9,
-        "name": "Third Floor"
+        "name": "Third Floor",
+        "spaceType": 10,
+        "elevation_m": 9
       },
       "geometry": {
         "type": "Polygon",
