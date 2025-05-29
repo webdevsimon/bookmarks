@@ -39,7 +39,7 @@
         "base_height": 3,
         "name": "First Floor",
         "spaceType": 4,
-        "elevation_m": 3
+        "elevation_m": 300
       },
       "geometry": {
         "type": "Polygon",
@@ -68,7 +68,7 @@
         "base_height": 6,
         "name": "Second Floor",
         "spaceType": 7,
-        "elevation_m": 6
+        "elevation_m": 600
       },
       "geometry": {
         "type": "Polygon",
@@ -94,7 +94,7 @@
         "base_height": 9,
         "name": "Third Floor",
         "spaceType": 10,
-        "elevation_m": 9
+        "elevation_m": 900
       },
       "geometry": {
         "type": "Polygon",
